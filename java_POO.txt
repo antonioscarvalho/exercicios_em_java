@@ -1,0 +1,5 @@
+Classe: descrição de um grupo de objetos
+Atributo: Ex.: Class Pessoa - Possíveis atributos: nome, idade, CPF, endereço.
+Objeto: Instância da classe. Imagine que você está construindo uma casa, antes mesmo de começar a construção, você tem uma planta, um projeto, para dar inicio às características que normalmente dispoem juntas uma casa. Essa planta é sua classe, agora imagine se você terminou a construção, você meio que fez algo real que, antes, só estava projetado, essa casa agora é seu objeto. Essa casa tem seus atributos, como numeroQuartos, tamanhoSala e qtdAndares.
+Então, a planta no papel seria a classe e a casa será o objeto (ex.: casa da Maria e casa do João serão dois objetos diferentes).
+Métodos são comportamentos que a classe pode ter. No caso da classe casa, poderiam ser comportamentos como serHabitada, serConstruída, Aconchegar, esquentarAmbiente ou iluminar.
